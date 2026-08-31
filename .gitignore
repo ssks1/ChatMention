@@ -1,3 +1,4 @@
 # Project exclude paths
 /.gradle/
 /build/
+/run/cache/mojang_1.21.4.jar
