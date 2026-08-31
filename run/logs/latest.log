@@ -1,0 +1,12 @@
+[04:41:37] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.12+8; Arch Linux null) on Linux 7.1.8-1-cachyos-bore-lto (amd64)
+[04:41:37] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.4-232-ver/1.21.4@12d8fe0 (2025-06-09T10:15:42Z) for Minecraft 1.21.4
+[04:41:37] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[04:41:37] [Paper Plugin Remapper Thread - 0/INFO]: [ReobfServer] Remapping server...
+[04:41:40] [Paper Plugin Remapper Thread - 0/INFO]: [ReobfServer] Done remapping server in 3000ms.
+[04:41:40] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Remapping plugin '/home/archuserbtw/IdeaProjects/plugins/ChatMention/build/libs/CowCannon-1.0-SNAPSHOT.jar'...
+[04:41:40] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Done remapping plugin '/home/archuserbtw/IdeaProjects/plugins/ChatMention/build/libs/CowCannon-1.0-SNAPSHOT.jar' in 56ms.
+[04:41:40] [ServerMain/INFO]: [PluginInitializerManager] Initialized 1 plugin
+[04:41:40] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (1):
+ - CowCannon (1.0-SNAPSHOT)
+[04:41:43] [ServerMain/WARN]: Failed to load eula.txt
+[04:41:43] [ServerMain/INFO]: You need to agree to the EULA in order to run the server. Go to eula.txt for more info.

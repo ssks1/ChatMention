@@ -1,0 +1,6 @@
+name: CowCannon
+version: '${version}'
+
+main: me.chatMention.ChatMention
+api-version: '1.21'
+load: POSTWORLD
