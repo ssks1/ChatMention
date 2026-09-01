@@ -4,3 +4,8 @@ version: '${version}'
 main: me.chatMention.ChatMention
 api-version: '1.21'
 load: POSTWORLD
+commands:
+  mention:
+    description: Opens mention settings or shows help
+    permission: chatmention.use
+    usage: /mention

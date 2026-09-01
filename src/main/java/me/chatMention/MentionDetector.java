@@ -11,7 +11,7 @@ public class MentionDetector {
     public String getTargetName(String message) {
         int atIndex = message.indexOf("@");
 
-        // If there's no @, return null immediately
+        // If there's no @, return null
         if (atIndex == -1) {
             return null;
         }
@@ -28,7 +28,6 @@ public class MentionDetector {
     public Player findMentioned(String message) {
         String targetName = getTargetName(message);
 
-        // GUARD: Prevent NullPointerException if no valid target was found
         if (targetName == null || targetName.isEmpty()) {
             return null;
         }
